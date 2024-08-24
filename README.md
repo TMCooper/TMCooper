@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,nodejs,github,git">
 </div>
 
-### Languages
+#### Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,">
 </div>

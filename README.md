@@ -6,6 +6,10 @@
   </picture>
 </div>
 <br><br><br><br>
+ <pre>
+    🌸- Manga 
+    🌸- Anime
+  </pre>
 <br><br><br><br><br>
 
 ##   Skills

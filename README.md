@@ -6,7 +6,7 @@
   </picture>
 </div>
 <br><br><br><br>
- <pre>
+ <pre align="center">
     🌸- Manga 
     🌸- Anime
   </pre>

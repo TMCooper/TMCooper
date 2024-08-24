@@ -8,7 +8,7 @@
 
 
 ##   Skills
-<img src="./images/Fern.jpeg" width="25%" align="center">
+<img src="./images/Fern.jpeg" width="25%" align="right">
 
 ### Outils
 <div align="center">

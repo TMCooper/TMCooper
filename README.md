@@ -13,7 +13,7 @@
 <br><br><br><br><br>
 
 ##   Skills
-<img src="./images/Fern.jpeg" width="25%" align="right">
+<img src="./images/Fern.jpeg" width="25%" align="left">
 
 ### Outils
 <div align="center">

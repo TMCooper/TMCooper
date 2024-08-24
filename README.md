@@ -11,16 +11,16 @@
 <img src="./images/Fern.jpeg" width="25%" align="right">
 
 ### Outils
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=mysql,nodejs,github,git">
 </div>
 
 ### Languages
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=python,">
 </div>
 
 ### IDE
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=vscode">
 </div>

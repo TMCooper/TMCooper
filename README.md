@@ -8,19 +8,19 @@
 
 
 ##   Skills
-<img src="./images/Fern.jpeg" width="25%" align="right">
+<img src="./images/Fern.jpeg" width="25%" align="center">
 
 ### Outils
-<div align="right">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,nodejs,github,git">
 </div>
 
 ### Languages
-<div align="right">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,">
 </div>
 
 ### IDE
-<div align="right">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=vscode">
 </div>

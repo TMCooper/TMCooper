@@ -10,10 +10,10 @@
     🌸- Manga 
     🌸- Anime
   </pre>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ##   Skills
-<img src="./images/Fern.jpeg" width="25%" align="left">
+<img src="./images/Fern.jpeg" width="25%" align="right">
 
 ### Outils
 <div align="center">

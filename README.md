@@ -27,6 +27,7 @@
     width="100%"  
   />
 </picture>
+
 ##   Skills
 
 ### Outils

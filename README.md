@@ -12,7 +12,13 @@
     🌸- Anime
   </pre>
 <br><br><br><br><br><br>
-
+<picture>
+  <sources
+    srcset="https://streak-stats.demolab.com/?user=TMCooper&theme=neon-dark&hide_border=true&border_radius=8&locale=fr&mode=weekly"
+    media="(prefers-color-sheme: dark)"
+    width="49%"  
+  />
+</picture>
 ##   Skills
 
 ### Outils

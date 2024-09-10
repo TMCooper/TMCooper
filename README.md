@@ -13,12 +13,12 @@
   </pre>
 <br><br><br><br><br><br>
 
-## <img src=ressources/stats.gif width="30" style="vertical-align: middle;"> Statistics </a>
+## <img src=ressources/stats.gif width="40" style="vertical-align: middle;"> Statistics </a>
 <img height=200 align="center" src="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215" />
     
 </picture>
 
-## <img src=ressources/skills.gif width="50" style="vertical-align: middle;"> Skills
+## <img src=ressources/skills.gif width="30" style="vertical-align: middle;"> Skills
 
 ### Outils
 <div align="center">

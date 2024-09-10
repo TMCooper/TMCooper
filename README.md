@@ -20,12 +20,12 @@
 
 ## <img src=ressources/skills.gif width="30" style="vertical-align: middle;"> Skills
 
-### Outils
+### <img src=ressources/systems.gif width="30" style="vertical-align: middle;"> Outils
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,nodejs,github,git">
 </div>
 
-### Languages
+### <img src=ressources/skills.gif width="30" style="vertical-align: middle;"> Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,">
 </div>

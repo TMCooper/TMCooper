@@ -13,7 +13,7 @@
   </pre>
 <br><br><br><br><br><br>
 
-## <img src=/ressources/stats.gif width="50" style="vertical-align: middle;"> Statistics
+## <img src=ressources/stats.gif width="50" style="vertical-align: middle;"> Statistics
 <picture>
   <sources
       srcset="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215"

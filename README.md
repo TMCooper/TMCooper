@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=python,">
 </div>
 
-### <img src=ressources/systems.gif width="30" style="vertical-align: middle;"> IDE
+### <img src=ressources/ides.gif width="30" style="vertical-align: middle;"> IDE
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode">
 </div>

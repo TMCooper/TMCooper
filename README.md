@@ -18,7 +18,7 @@
     
 </picture>
 
-## <img src=.ressources/skills.gif width="50" style="vertical-align: middle;"> Skills
+## <img src=ressources/skills.gif width="50" style="vertical-align: middle;"> Skills
 
 ### Outils
 <div align="center">

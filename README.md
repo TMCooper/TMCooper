@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,nodejs,github,git">
 </div>
 
-### <img src=ressources/skills.gif width="30" style="vertical-align: middle;"> Languages
+### <img src=ressources/python.gif width="30" style="vertical-align: middle;"> Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,">
 </div>

@@ -14,18 +14,17 @@
 <br><br><br><br><br><br>
 
 <picture>
-
-<sources
-    srcset="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215"
-    media="(prefers-color-sheme: blueberry-duo)"
-    width="100%"  
-  />
-
   <sources
-    srcset="https://streak-stats.demolab.com/?user=TMCooper&theme=neon-dark&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215"
-    media="(prefers-color-sheme: neon-dark)"
-    width="100%"  
-  />
+      srcset="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215"
+      media="(prefers-color-sheme: blueberry-duo)"
+      width="100%"  
+    />
+
+    <sources
+      srcset="https://streak-stats.demolab.com/?user=TMCooper&theme=neon-dark&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215"
+      media="(prefers-color-sheme: neon-dark)"
+      width="100%"  
+    />
 </picture>
 
 ##   Skills

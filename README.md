@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-<img src="./images/Fern.jpeg" align="right"/>
+<img src="./images/Fern.jpeg" width="30" align="right"/>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

@@ -8,26 +8,18 @@
 
 <div align="center">
   <images src="images/frieren_meme.gif" width="30%" align="right">
-  ```py
-def TMCooper():
-    name = "TMCooper",
-    love =[🌸- Manga,
-          🌸- Anime]
-    
-```
+
 ```py
-def my_function():
-  print("Hello from a function")
+TMCooper()
+def TMCooper():
+  name = "TMCooper",
+  love =[🌸- Manga,
+          🌸- Anime]
+  return TMCooper
+
+print(TMCooper)
 ```
-  ```js
-const Antrubtor = {
-    name : "Antrubtor",
-    status : "Student - EPITA 2027",
-    country : "France, Paris",
-    love : ("🏎️","🐈","🖥️"),
-    WPM : 112
-}
-```
+
 </div>
 <br><br><br><br>
 <!-- <pre align="center"></pre>-->

@@ -20,7 +20,7 @@
 <br><br><br><br><br><br> 
 <!-- <img src="./images/Fern.jpeg" width="35%" align="right"> -->
 
-<br><br><br>
+<br><br><br><br><br>
 
 ## <img src=ressources/stats.gif width="40" style="vertical-align: middle;"> Statistics </a>
 <img height=200 align="center" src="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215" />

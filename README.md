@@ -4,7 +4,7 @@
     <img align="top" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00FFFF&multiline=true&random=false&width=435&center=true&lines=Hello+do+you+like+Frieren+?" alt="Typing SVG" />
   </picture>
 </div>
-<img src="./images/frieren_sky.gif" align="center">
+<img src="./images/frieren_sky.gif" width="100%" align="center">
 
 
 ## <img src="./images/frieren_meme.gif" width="50"> About me

@@ -13,8 +13,12 @@ def TMCooper():
     name = "TMCooper",
     love =[🌸- Manga,
           🌸- Anime]
+    
 ```
-
+```py
+def my_function():
+  print("Hello from a function")
+```
   ```js
 const Antrubtor = {
     name : "Antrubtor",

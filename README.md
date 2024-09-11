@@ -10,14 +10,14 @@
   <images src="images/frieren_meme.gif" width="30%" align="right">
 
 ```py
-TMCooper()
+owner : TMCooper()
 def TMCooper():
   name = "TMCooper",
   love =[🌸- Manga,
           🌸- Anime]
   return TMCooper
 
-print(TMCooper)
+print(owner)
 ```
 
 </div>

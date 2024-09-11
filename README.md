@@ -6,8 +6,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <images src="images/frieren_meme.gif" width="30%" align="right">
 
 ```py
 git_owner = TMCooper()
@@ -19,6 +17,9 @@ def TMCooper():
 
 print(git_owner)
 ```
+
+<div align="center">
+  <images src="images/frieren_meme.gif" width="30%" align="right">
 
 </div>
 <br><br><br><br>

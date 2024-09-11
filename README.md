@@ -15,7 +15,7 @@ def TMCooper():
           🌸- Anime]
 ```
 
-  ```py
+  ```js
 const Antrubtor = {
     name : "Antrubtor",
     status : "Student - EPITA 2027",

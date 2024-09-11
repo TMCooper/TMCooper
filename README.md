@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-<!-- <img align="right" src="./images/fern.gif" alt="Typing SVG" /> -->
+<img src="./images/fern.gif" align="right"/>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

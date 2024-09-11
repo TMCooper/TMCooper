@@ -7,7 +7,7 @@
 </div>
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
 ## <img src=.ressources/cat.gif width="50"> About me
 <img src=".ressources/codingloop.gif" height="170vh" align="right">
@@ -28,7 +28,7 @@ print(git_owner)
   <images src="images/frieren_meme.gif" width="30%" align="right">
 </div>
 <!-- <pre align="center"></pre>-->
-<br><br><br><br><br><br> 
+
 <!-- <img src="./images/Fern.jpeg" width="35%" align="right"> -->
 
 <br><br><br><br><br>

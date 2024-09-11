@@ -4,9 +4,9 @@
     <img align="top" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00FFFF&multiline=true&random=false&width=435&center=true&lines=Hello+do+you+like+Frieren+?" alt="Typing SVG" />
   </picture>
 </div>
-
-<img src="./images/Frieren.jpeg" width="25%" align="left">
-<img src="./images/Fern.jpeg" width="30%" align="right"/>
+<img src="./images/frieren_to_fern.jpeg" width="30%" align="center">
+<!-- <img src="./images/Frieren.jpeg" width="25%" align="left">
+<img src="./images/Fern.jpeg" width="30%" align="right"/> -->
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

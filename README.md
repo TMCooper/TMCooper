@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-<images src="./images/frieren_meme.gif" >
+<images src="./images/frieren_meme.gif" width="30%" align="right">
 ```py
 def TMCooper():
   name = TMCooper

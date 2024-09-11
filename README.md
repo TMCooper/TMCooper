@@ -8,12 +8,13 @@
 
 <div align="center">
   <images src="images/frieren_meme.gif" width="30%" align="right">
-```py
-def TMCooper():
-  name = TMCooper
-  love =[🌸- Manga 
-         🌸- Anime]
-```
+  ```py
+  def TMCooper():
+    name = TMCooper
+    love =[🌸- Manga 
+          🌸- Anime]
+  ```
+</div>
 <!-- <br><br><br><br>
  <pre align="center"></pre>
 <br><br><br><br><br><br> -->

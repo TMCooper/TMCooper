@@ -15,9 +15,9 @@
           🌸- Anime]
   ```
 </div>
-<!-- <br><br><br><br>
- <pre align="center"></pre>
-<br><br><br><br><br><br> -->
+<br><br><br><br>
+<!-- <pre align="center"></pre>-->
+<br><br><br><br><br><br> 
 <!-- <img src="./images/Fern.jpeg" width="35%" align="right"> -->
 
 <br><br>

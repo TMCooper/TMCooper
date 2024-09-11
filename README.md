@@ -30,9 +30,9 @@
 </div>
 
 ### <img src=ressources/ides.gif width="30" style="vertical-align: middle;"> IDE
-<img src="./images/Fern.jpeg" width="35%" align="right">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode">
+  <img src="./images/Fern.jpeg" width="35%" align="right">
 </div>
   
 

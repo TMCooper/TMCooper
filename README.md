@@ -7,7 +7,7 @@
 </div>
 
 <images src="images/frieren_meme.gif" >
-```py
+```js
 def TMCooper():
   name = TMCooper
   love =[🌸- Manga 

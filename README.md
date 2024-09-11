@@ -7,8 +7,13 @@
 </div>
 
 
+
+## <img src=.ressources/cat.gif width="50"> About me
+<img src=".ressources/codingloop.gif" height="170vh" align="right">
+
 ```py
 git_owner = TMCooper()
+
 def TMCooper():
   name = "TMCooper",
   love =[🌸- Manga,

@@ -6,11 +6,11 @@
   </picture>
 </div>
 
+<img align="right" src="./images/git_frieren.gif" alt="Typing SVG" />
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## <img src=./images/frieren_meme.gif width="50"> About me
-<img src=".ressources/codingloop.gif" height="170vh" align="right">
+## <img src="./images/frieren_meme.gif" width="50"> About me
 
 ```py
 git_owner = TMCooper()
@@ -24,33 +24,25 @@ def TMCooper():
 print(git_owner)
 ```
 
-<!-- <div align="center">
-  <images src="images/frieren_meme.gif" width="30%" align="right">
-</div> -->
-<!-- <pre align="center"></pre>-->
 
-<!-- <img src="./images/Fern.jpeg" width="35%" align="right"> -->
-
-
-
-## <img src=ressources/stats.gif width="40" style="vertical-align: middle;"> Statistics </a>
+## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics </a>
 <img height=200 align="center" src="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215" />
     
 </picture>
 
-## <img src=ressources/skills.gif width="30" style="vertical-align: middle;"> Skills
+## <img src="ressources/skills.gif" width="30" style="vertical-align: middle;"> Skills
 
-### <img src=ressources/systems.gif width="30" style="vertical-align: middle;"> Outils
+### <img src="ressources/systems.gif" width="30" style="vertical-align: middle;"> Outils
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,nodejs,github,git">
 </div>
 
-### <img src=ressources/python.gif width="30" style="vertical-align: middle;"> Languages
+### <img src="ressources/python.gif" width="30" style="vertical-align: middle;"> Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,">
 </div>
 
-### <img src=ressources/ides.gif width="30" style="vertical-align: middle;"> IDE
+### <img src="ressources/ides.gif" width="30" style="vertical-align: middle;"> IDE
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode">
 </div>

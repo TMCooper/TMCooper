@@ -6,12 +6,12 @@
   </picture>
 </div>
 
-<img align="right" src="./images/fern.gif" alt="Typing SVG" />
+<!-- <img align="right" src="./images/fern.gif" alt="Typing SVG" /> -->
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## <img src="./images/frieren_meme.gif" width="50"> About me
-<img align="right" src="./images/git_frieren.gif" alt="SVG" />
+<img src="./images/git_frieren.gif" align="right"/>
 
 ```py
 git_owner = TMCooper()

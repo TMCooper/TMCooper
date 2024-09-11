@@ -11,7 +11,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## <img src="./images/frieren_meme.gif" width="50"> About me
-<img src="./images/git_frieren.gif" align="right"/>
+<img src="./images/git_frieren.gif" width="50%" align="right"/>
 
 ```py
 git_owner = TMCooper()

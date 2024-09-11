@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-<img align="right" src="./images/git_frieren.gif" alt="Typing SVG" />
+<img align="right" src="./images/fern.gif" alt="Typing SVG" />
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -23,6 +23,8 @@ def TMCooper():
 
 print(git_owner)
 ```
+
+<img align="right" src="./images/frieren_meme.gif" alt="Typing SVG" />
 
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics </a>

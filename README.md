@@ -9,11 +9,21 @@
 <div align="center">
   <images src="images/frieren_meme.gif" width="30%" align="right">
   ```py
-    name = "TMCooper"
-    love =[🌸- Manga 
+def TMCooper():
+    name = "TMCooper",
+    love =[🌸- Manga,
           🌸- Anime]
 ```
 
+  ```py
+const Antrubtor = {
+    name : "Antrubtor",
+    status : "Student - EPITA 2027",
+    country : "France, Paris",
+    love : ("🏎️","🐈","🖥️"),
+    WPM : 112
+}
+```
 </div>
 <br><br><br><br>
 <!-- <pre align="center"></pre>-->

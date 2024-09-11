@@ -7,7 +7,7 @@
 </div>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## <img src=.ressources/cat.gif width="50"> About me
 <img src=".ressources/codingloop.gif" height="170vh" align="right">

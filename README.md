@@ -5,6 +5,8 @@
     <img align="top" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00FFFF&multiline=true&random=false&width=435&center=true&lines=Hello+do+you+like+Frieren+?" alt="Typing SVG" />
   </picture>
 </div>
+
+<images src="images/frieren_meme.gif" >
 ```py
 def TMCooper():
   name = TMCooper

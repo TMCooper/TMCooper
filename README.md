@@ -9,7 +9,7 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## <img src=.ressources/cat.gif width="50"> About me
+## <img src=./images/frieren_meme.gif width="50"> About me
 <img src=".ressources/codingloop.gif" height="170vh" align="right">
 
 ```py
@@ -24,9 +24,9 @@ def TMCooper():
 print(git_owner)
 ```
 
-<div align="center">
+<!-- <div align="center">
   <images src="images/frieren_meme.gif" width="30%" align="right">
-</div>
+</div> -->
 <!-- <pre align="center"></pre>-->
 
 <!-- <img src="./images/Fern.jpeg" width="35%" align="right"> -->

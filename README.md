@@ -18,7 +18,7 @@ def TMCooper():
     
   </pre>
 <br><br><br><br><br><br>
-  <img src="./images/Fern.jpeg" width="35%" align="right">
+<!-- <img src="./images/Fern.jpeg" width="35%" align="right"> -->
 
 
 ## <img src=ressources/stats.gif width="40" style="vertical-align: middle;"> Statistics </a>

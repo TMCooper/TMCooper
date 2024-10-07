@@ -16,7 +16,8 @@ git_owner = TMCooper()
 def TMCooper():
   name = "TMCooper",
   love =[🌸- Manga,
-          🌸- Anime]
+          🌸- Anime
+          🌸- Gaming]
   return TMCooper
 
 print(git_owner)

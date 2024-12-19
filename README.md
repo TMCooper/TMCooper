@@ -10,7 +10,7 @@
 ## <img src="./images/frieren_meme.gif" width="50"> About me
 <img src="./images/git_frieren.gif" width="35%" align="right"/>
 
-```py
+```python
 git_owner = TMCooper()
 
 def TMCooper():

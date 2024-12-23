@@ -28,10 +28,22 @@ print(git_owner)
 
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics </a>
-<img srcset="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215" media="(prefers-color-scheme: dark)" width="49%"/>
+<!-- <img height=200 width="49%" align="center" src="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215" /> -->
+<!-- <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/> -->
+</picture>
 
-<img srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024" media="(prefers-color-scheme: dark)" width="49%"/>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Filox77250&show_icons=true&theme=dark&hide_border=true&custom_title=Filox's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+    width="49%"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Filox77250&show_icons=true&theme=light&hide_border=true&custom_title=Filox's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github"
+    media="(prefers-color-scheme: light)"
+    width="49%"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Filox77250&show_icons=true&theme=dark&hide_border=true&custom_title=Filox's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" />
 </picture>
 
 ## <img src="ressources/skills.gif" width="30" style="vertical-align: middle;"> Skills

@@ -9,7 +9,7 @@
 
 
 ## <img src="./images/frieren_meme.gif" width="50"> About me
-<img src="./images/holo_smile.gif" height=243 width="35%" align="right"/>
+<img src="./images/holo_smile.gif" height="220" width="35%" align="right"/>
 
 ```python
 git_owner = TMCooper()

@@ -28,7 +28,7 @@ print(git_owner)
 
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics </a>
-<img height=200 width="420" align="center" src="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215"/><img height=200px width=400px align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/>
+<img height=200 width="420" align="center" src="https://streak-stats.demolab.com/?user=TMCooper&theme=blueberry-duo&hide_border=true&border_radius=5&locale=fr&mode=weekly&card_height=215"/><img height=200px width=420px align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/>
 </picture>
 
 ## <img src="ressources/skills.gif" width="30" style="vertical-align: middle;"> Skills

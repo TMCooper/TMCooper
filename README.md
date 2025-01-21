@@ -25,7 +25,7 @@ def TMCooper():
 print(git_owner)
 ```
 
-<audio id="myAudio" autoplay loop style="display: none;">
+<audio id="myAudio" autoplay loop>
     <source src="./ressources/audio/vent.mp3" type="audio/wav">
 </audio>
 

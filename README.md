@@ -26,7 +26,7 @@ print(git_owner)
 ```
 
 <audio id="myAudio" autoplay loop style="display: none;">
-    <source src="./ressources/audio/WINDVege_Vent dans les herbes hautes (ID 0908)_LS.wav" type="audio/wav">
+    <source src="./ressources/audio/vent.wav" type="audio/wav">
     Votre navigateur ne supporte pas l'audio HTML5.
 </audio>
 

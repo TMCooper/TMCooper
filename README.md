@@ -29,11 +29,11 @@ print(git_owner)
     <source src="./ressources/audio/vent.mp3" type="audio/wav">
 </audio>
 
-<script>
+<!-- <script>
     const audio = document.getElementById('myAudio');
     // Volume initial
     audio.volume = 0.25;
-</script>
+</script> -->
 
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics </a>

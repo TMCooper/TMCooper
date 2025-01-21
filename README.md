@@ -25,10 +25,16 @@ def TMCooper():
 print(git_owner)
 ```
 
-<audio autoplay loop style="display: none;">
+<audio id="myAudio" autoplay loop style="display: none;">
     <source src="./ressources/audio/WINDVege_Vent dans les herbes hautes (ID 0908)_LS.wav" type="audio/wav">
     Votre navigateur ne supporte pas l'audio HTML5.
 </audio>
+
+<script>
+    const audio = document.getElementById('myAudio');
+    // Volume initial
+    audio.volume = 0.25;
+</script>
 
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics </a>

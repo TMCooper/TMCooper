@@ -25,9 +25,9 @@ def TMCooper():
 print(git_owner)
 ```
 
-<video controls height="20">
-    <source src="./ressources/audio/vent.mp4" type="audio/mp4">
-</video>
+<audio controls>
+    <source src="./ressources/audio/vent.mp3" type="audio/mp3">
+</audio>
 
 
 <!-- <audio>

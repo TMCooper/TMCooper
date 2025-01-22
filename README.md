@@ -26,7 +26,7 @@ print(git_owner)
 ```
 
 <audio controls>
-    <source src="./ressources/audio/vent.mp3" type="audio/mpeg">
+    <source src="https://github.com/TMCooper/TMCooper/blob/main/ressources/audio/vent.mp3" type="audio/mpeg">
     Ton navigateur ne supporte pas l'élément audio.
 </audio>
 

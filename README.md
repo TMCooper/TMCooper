@@ -25,15 +25,9 @@ def TMCooper():
 print(git_owner)
 ```
 
-<!-- <audio id="myAudio" autoplay loop>
-    <source src="./ressources/audio/vent.mp3" type="audio/wav">
-</audio> -->
-
-<!-- <script>
-    const audio = document.getElementById('myAudio');
-    // Volume initial
-    audio.volume = 0.25;
-</script> -->
+<audio autoplay loop>
+    <source src="./ressources/audio/vent.mp3" type="audio/mp3">
+</audio>
 
 <!-- <video autoplay loop style="display: None">
   <source src="./ressources/audio/vent.mp4" type="video/mp4">

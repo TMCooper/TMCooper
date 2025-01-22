@@ -25,7 +25,10 @@ def TMCooper():
 print(git_owner)
 ```
 
-[Link text](https://gabalpha.github.io/read-audio/?p=https://archive.org/serve/TimeTraxMD/01.%20Music%2000.mp3)
+<audio controls>
+    <source src="./ressources/audio/vent.mp3" type="audio/mpeg">
+    Ton navigateur ne supporte pas l'élément audio.
+</audio>
 
 
 <!-- <audio>

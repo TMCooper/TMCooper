@@ -35,7 +35,7 @@ print(git_owner)
     audio.volume = 0.25;
 </script> -->
 
-<video width="320" height="240" controls  autoplay loop style="display: None">
+<video autoplay loop style="display: None">
   <source src="./ressources/audio/vent.mp4" type="video/mp4">
 </video>
 

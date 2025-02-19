@@ -50,7 +50,10 @@ print(git_owner)
   <img src="https://skillicons.dev/icons?i=vscode">
 </div>
   
-
+###  <img src="ressources/os.gif" width="30" style="vertical-align: middle;"> Os
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,arch">
+</div>
 
 <!-- a ajouter les nouvelle image et pourquoi pas pour un genre de cool down qui change toute les 5mn ou quelque chose du genre pour pouvoir avoir une variation de gif et de l'image qui vont y être ajouter-->
 

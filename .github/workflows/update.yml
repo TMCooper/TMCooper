@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 * * * *"   # toutes les heures
+    - cron: "*/5 * * * *"   # toutes les heures
   workflow_dispatch:      # permet de lancer à la main aussi
 
 jobs:

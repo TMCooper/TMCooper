@@ -4,7 +4,7 @@ import random
 # Les images disponibles
 images = [
     "./images/frieren/frieren_meme.gif",
-    "./images/frieren/burnice_meme.gif"
+    "./images/burnice/burnice_meme.gif"
 ]
 
 # Lire le README

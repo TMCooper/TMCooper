@@ -9,9 +9,9 @@
 
 
 ## <img src="./images/Frieren/frieren_meme.gif" width="50"> About me
-<table>
-  <tr>
-    <td valign="top" width="50%">
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 0; margin: 20px 0;">
+  <div style="flex: 1;">
 
 ```python
 git_owner = TMCooper()
@@ -26,26 +26,20 @@ def TMCooper():
 
 print(git_owner)
 ```
-</td>
-<td valign="top" align="right">
-  <img src="./images/holo/holo_smile.gif" alt="Holo smiling" height="195"/>
-</td>
-
+</div>
+  <div style="flex: 0 0 auto; margin: 0; padding: 0;">
+    <img src="./images/holo/holo_smile.gif" alt="Holo smiling" height="195" style="display: block; margin: 0;"/>
+  </div>
+</div>
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top">
-  <tr>
-    <td width="50%" align="right">
-      <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=TMCooper&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"/>
-    </td>
-    <td width="50%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/>
-    </td>
-  </tr>
-</table>
+<!-- Section Statistiques -->
+<p align="center">
+  <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=TMCooper&theme=tokyonight&border_radius=5&mode=weekly&card_height=215" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024" width="49%"/>
+</p>
+
 
 ## <img src="ressources/skills.gif" width="30" style="vertical-align: middle;"> Skills
 

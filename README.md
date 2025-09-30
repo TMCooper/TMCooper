@@ -11,7 +11,7 @@
 ## <img src="./images/Frieren/frieren_meme.gif" width="50"> About me
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="50%">
 
 ```python
 git_owner = TMCooper()
@@ -27,7 +27,7 @@ def TMCooper():
 print(git_owner)
 ```
 </td>
-<td valign="top" align="center" width="300">
+<td valign="middle" align="center" width="50%">
   <img src="./images/holo/holo_smile.gif" alt="Holo smile" width="250"/><br>
 </td>
 
@@ -42,7 +42,7 @@ print(git_owner)
       <img height="215" src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=TMCooper&theme=tokyonight&border_radius=10&mode=weekly&card_height=215"/>
     </td>
     <td>
-      <img height="215" src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=⏳ Time%20by%20language%20since%2002/11/2024"/>
+      <img height="215" src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/>
     </td>
   </tr>
 </table>

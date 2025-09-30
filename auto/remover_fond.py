@@ -2,8 +2,8 @@ from rembg import remove # type: ignore
 from PIL import Image, ImageSequence
 
 # Charger ton GIF
-input_gif = r"C:\Users\pokem\Downloads\burnice_white_meme.gif"
-output_gif = r"C:\Users\pokem\Desktop\Code\TMCooper\script\burnice_white_meme.gif"
+input_gif = r"C:\Users\pokem\Desktop\Code\TMCooper\images\Frieren\frieren_meme.gif"
+output_gif = r"C:\Users\pokem\Desktop\Code\TMCooper\images\Frieren\frieren_meme_i.gif"
 
 gif = Image.open(input_gif)
 frames = []

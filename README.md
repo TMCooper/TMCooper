@@ -27,22 +27,22 @@ def TMCooper():
 print(git_owner)
 ```
 </td>
-<td valign="middle" align="center" width="50%">
-  <img src="./images/holo/holo_smile.gif" alt="Holo smile" width="250"/><br>
+<td valign="top" align="right">
+  <img src="./images/holo/holo_smile.gif" alt="Holo smiling" height="195"/>
 </td>
 
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics
 
-<div align="center">
-
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <img height="215" src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=TMCooper&theme=tokyonight&border_radius=10&mode=weekly&card_height=215"/>
+    <td valign="top">
+  <tr>
+    <td width="50%" align="right">
+      <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=TMCooper&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"/>
     </td>
-    <td>
-      <img height="215" src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/>
+    <td width="50%" align="left">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/>
     </td>
   </tr>
 </table>

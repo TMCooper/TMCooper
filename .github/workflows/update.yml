@@ -9,6 +9,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: List files (debug)
+        run: ls -R
+
       - name: Checkout repository
         uses: actions/checkout@v3
 
@@ -17,11 +20,8 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: List files (debug)
-        run: ls -R
-
       - name: Run script
-        run: python scripts/update_readme.py
+        run: python .\scripts\update_readme.py
 
       - name: Commit and push changes
         run: |

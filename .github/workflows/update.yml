@@ -16,7 +16,7 @@ jobs:
       # ÉTAPE 2 : ON SYNCHRONISE AVEC LE DERNIER COMMIT.
       # C'est l'étape cruciale qui garantit que nous avons la dernière version du script.
       - name: Synchronize with the latest version from GitHub
-        run: git pull
+        run: git config pull.rebase true
 
       # ÉTAPE 3 : On prépare l'environnement Python.
       - name: Set up Python

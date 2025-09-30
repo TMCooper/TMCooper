@@ -10,8 +10,8 @@
 
 ## <img src="./images/Frieren/frieren_meme.gif" width="50"> About me
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 0; margin: 20px 0;">
-  <div style="flex: 1;">
+<p align="center">
+  <div style="display: inline-block; width: 49%; vertical-align: top;">
 
 ```python
 git_owner = TMCooper()
@@ -26,11 +26,9 @@ def TMCooper():
 
 print(git_owner)
 ```
-</div>
-  <div style="flex: 0 0 auto; margin: 0; padding: 0;">
-    <img src="./images/holo/holo_smile.gif" alt="Holo smiling" height="195" style="display: block; margin: 0;"/>
-  </div>
-</div>
+</span>
+<img src="./images/holo/holo_smile.gif" alt="Holo smiling" width="49%" height="250px"/> 
+</p> 
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics
 

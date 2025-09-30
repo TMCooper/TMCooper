@@ -9,32 +9,36 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-
+      # ÉTAPE 1 : On télécharge le code de base.
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Synchronize with the latest commit
+      # ÉTAPE 2 : ON SE MET À JOUR AVEC LE DERNIER COMMIT IMMÉDIATEMENT.
+      # C'est l'étape la plus importante qui résout le problème.
+      - name: Synchronize with the latest version
         run: git pull
 
+      # ÉTAPE 3 : On installe Python.
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      # Étape 4 : On exécute le script (qui est maintenant la bonne version)
+      # ÉTAPE 4 : On exécute le script (qui est maintenant la bonne version).
       - name: Run script to update README
         run: python auto/update_readme.py
 
-      # Étape 5 : On commite les changements (s'il y en a)
+      # ÉTAPE 5 : On envoie les modifications du README (s'il y en a).
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          # Le 'git diff' nous dira s'il y a des changements avant de commiter
+          # On vérifie s'il y a des changements avant de commiter
           if ! git diff --staged --quiet; then
+            echo "README.md a été modifié, envoi des changements..."
             git commit -m "Update README with new image"
             git push
           else
-            echo "No changes to commit."
+            echo "Aucun changement détecté dans README.md."
           fi

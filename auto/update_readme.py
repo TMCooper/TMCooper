@@ -7,9 +7,7 @@ print("--- DÉBUT DU SCRIPT DE MISE À JOUR DU README ---")
 # La liste complète des images disponibles
 all_images = [
     "./images/Frieren/frieren_meme.gif",
-    "./images/burnice/burnice_meme.gif",
-    "./images/Frieren/frieren_sky.gif",
-    "./images/Frieren/git_frieren.gif"
+    # "./images/burnice/burnice_meme.gif",
 ]
 print(f"Images disponibles: {len(all_images)}")
 

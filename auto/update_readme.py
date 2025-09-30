@@ -8,6 +8,9 @@ print("--- DÉBUT DU SCRIPT DE MISE À JOUR DU README ---")
 all_images = [
     "./images/Frieren/frieren_meme.gif",
     "./images/burnice/burnice_meme.gif",
+    "./images/nokotan/nokotan.gif",
+    "./images/quintuplets/the_quintessential_quintuplets_nanako.gif",
+    
 ]
 print(f"Images disponibles: {len(all_images)}")
 

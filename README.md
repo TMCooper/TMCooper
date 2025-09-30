@@ -8,7 +8,7 @@
 <img src="./images/holo/holo_dance.gif" width="100%" align="center">
 
 
-## <img src="./images/Frieren/frieren_meme.gif" width="50"> About me
+## <img src="./images/burnice/burnice_meme.gif" width="50"> About me
 <img src="./images/holo/holo_smile.gif" height="221.71" width="33.7%" align="right"/>
 
 ```python

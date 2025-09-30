@@ -10,7 +10,6 @@ all_images = [
     "./images/burnice/burnice_meme.gif",
     "./images/nokotan/nokotan.gif",
     "./images/quintuplets/the_quintessential_quintuplets_nanako.gif",
-    
 ]
 print(f"Images disponibles: {len(all_images)}")
 

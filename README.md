@@ -9,7 +9,9 @@
 
 
 ## <img src="./images/Frieren/frieren_meme.gif" width="50"> About me
-<img src="./images/holo/holo_smile.gif" height="221.71" width="33.7%" align="right"/>
+<table>
+  <tr>
+    <td valign="top" width="65%">
 
 ```python
 git_owner = TMCooper()
@@ -24,16 +26,27 @@ def TMCooper():
 
 print(git_owner)
 ```
+</td>
+<td valign="top" width="300">
+  <img src="./images/holo/holo_smile.gif" alt="Holo smile" width="300"/>
+</td>
+</tr>
+</table>
 
-<video autoplay loop style="display: None">
-  <source src="./ressources/audio/vent.mp4" type="video/mp4">
-</video>
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics
 
 <p align="center">
-  <img height="200" width="423" src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=TMCooper&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"/>
-  <img height="201" width="424" src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/>
+  <table>
+    <tr>
+      <td>
+        <img height="200" src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=TMCooper&theme=tokyonight&border_radius=5&mode=weekly&card_height=215"/>
+      </td>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## <img src="ressources/skills.gif" width="30" style="vertical-align: middle;"> Skills

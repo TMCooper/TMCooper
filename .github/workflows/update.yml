@@ -16,9 +16,10 @@ jobs:
       # ÉTAPE 2 : ON SYNCHRONISE AVEC LE DERNIER COMMIT.
       # C'est l'étape cruciale qui garantit que nous avons la dernière version du script.
       - name: Synchronize with the latest version from GitHub
-        run:  git fetch origin
-              git reset --hard origin/main
-
+        run: |
+          git fetch origin
+          git reset --hard origin/main
+          
       # ÉTAPE 3 : On prépare l'environnement Python.
       - name: Set up Python
         uses: actions/setup-python@v4

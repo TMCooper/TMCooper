@@ -9,11 +9,11 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: List files (debug)
-        run: ls -R
-
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: List files (debug)
+        run: ls -R
 
       - name: Set up Python
         uses: actions/setup-python@v4

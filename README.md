@@ -11,7 +11,7 @@
 ## <img src="./images/Frieren/frieren_meme.gif" width="50"> About me
 
 <!-- <img align="right" src="./images/holo/holo_smile.gif" alt="Holo smiling" height="250px"/> -->
-<span style="display:inline-block; width:49%; vertical-align:top; text-align:left;">
+<pre style="display:inline-block; width:49%; margin:0; padding:10px; background:#1e1e2f; color:#f8f8f2; border-radius:10px; font-family: Fira Code, monospace; font-size:12px; line-height:1.2;">
 
 ```python
 git_owner = TMCooper()
@@ -26,8 +26,8 @@ def TMCooper():
 
 print(git_owner)
 ```
-
-</span><img src="./images/holo/holo_smile.gif" alt="Holo smiling" width="49%" height="270px" style="vertical-align:top;"/> </p>
+</pre>
+<img src="./images/holo/holo_smile.gif" alt="Holo smiling" width="49%" height="270px" style="vertical-align:top;"/>
 
 ## <img src="ressources/stats.gif" width="40" style="vertical-align: middle;"> Statistics
 

@@ -10,8 +10,7 @@
 
 ## <img src="./images/Frieren/frieren_meme.gif" width="50"> About me
 
-<p align="center">
-  <div style="display: inline-block; width: 49%; vertical-align: top;">
+<span style="display:inline-block; width:49%; vertical-align:top;">
 
 ```python
 git_owner = TMCooper()

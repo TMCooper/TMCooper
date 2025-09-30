@@ -11,7 +11,7 @@
 ## <img src="./images/Frieren/frieren_meme.gif" width="50"> About me
 
 <!-- <img align="right" src="./images/holo/holo_smile.gif" alt="Holo smiling" width="498" height="351"/> -->
-<img align="right" src="./images/holo/holo_smile.gif" alt="Holo smiling" height="195"/>
+<img align="right" src="./images/holo/holo_smile.gif" alt="Holo smiling" height="220"/>
 
 ```python
 git_owner = TMCooper()

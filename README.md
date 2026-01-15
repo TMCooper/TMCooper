@@ -63,3 +63,5 @@ print(git_owner)
 <!-- a ajouter les nouvelle image et pourquoi pas pour un genre de cool down qui change toute les 5mn ou quelque chose du genre pour pouvoir avoir une variation de gif et de l'image qui vont y être ajouter-->
 
 <!-- ajouter un programme qui effectue la même chose que le lien mais en local pour être independant -->
+
+<!-- All made by TMCooper -->

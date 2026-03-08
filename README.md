@@ -34,7 +34,7 @@ print(git_owner)
 <!-- Section Statistiques -->
 <p align="center">
   <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=TMCooper&theme=tokyonight&border_radius=5&mode=weekly&card_height=215" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024" width="49%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TMcooper&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024" width="49%"/> -->
 </p>
 
 
